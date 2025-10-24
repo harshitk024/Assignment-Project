@@ -8,4 +8,4 @@
 
 ## Screenshots & recording
 
-in directory - `app/assets/`
+[Demo video & Screenshots (Google Drive)](https://drive.google.com/drive/folders/1hkxCZrc4iCxD6U6QYMTAieS_Bd1eGavu?usp=drive_link)
